@@ -32,19 +32,23 @@
 
 [MediaWiki](http://139.162.67.101/mediawiki)
 
+## 媒體素材
 
+### **圖片來源**
 
-## 其他
+- [免費圖庫1](https://www.pexels.com/zh-tw/)
+- [免費圖庫2](https://pixabay.com/)
+- [免費圖庫3](https://stockup.sitebuilderreport.com/)
+- [免費圖庫4](https://unsplash.com/)
 
-+ [企劃書](https://github.com/wujoe0415/MultlineStory/blob/main/%E8%A8%88%E5%8A%83%E6%9B%B8.pdf)
+### 音效來源
 
-+ [HackMD_Note](https://github.com/wujoe0415/MultlineStory/tree/main/HackMD_Note)
+- [無版權音效庫](https://www.youtube.com/channel/UCorqI2EE1avwlTCekjfi0LQ)
+- [毛毛的音樂](https://www.youtube.com/watch?v=8Ym1C1JNUc4)
+- [音效庫](https://studio.youtube.com/channel/UCmhQudybnNIst9YFmVdQuYQ/music)
+- [動畫、音效庫](https://taira-komori.jpn.org/game01tw.html)
+- [甘茶の音楽工房](http://amachamusic.chagasi.com/index.html)
 
 ## 貢獻者
 
-楊芷嫺
-
-巫廷翰
-
-林文柔
-
+楊芷嫺、巫廷翰、林文柔
