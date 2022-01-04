@@ -2,7 +2,7 @@
 
 ## 主視覺
 
-<img src="D:\NEW_Download\Background (1).png" alt="Background (1)" style="zoom:33%;" />
+<img src="https://i.imgur.com/ptcpnvF.png" alt="Background (1)" style="zoom:50%;" />
 
 
 
